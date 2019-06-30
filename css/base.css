@@ -6,3 +6,11 @@
 body {
     background-color: pink;
 }
+
+ul {
+    list-style: none
+}
+
+li {
+    color: skyblue
+}
